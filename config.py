@@ -1,0 +1,10 @@
+class TestData:
+    BASE_URL = "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login"
+    USER_NAME = "Admin"
+    PASSWORD = "admin123"
+    PASSWORD01 = "Invalid Password"
+    LOGIN_PAGE_TITLE = "OrangeHRM"
+    FIRST_NAME = "SUDHARSAN"
+    LAST_NAME = "SELVARAJ"
+    PIM_NICKNAME = "SUDHAR"
+    PIM_LICENSE = "123456789"
